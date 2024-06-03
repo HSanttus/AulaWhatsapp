@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984134631838",
+    "project_id": "aulawhats",
+    "storage_bucket": "aulawhats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984134631838:android:5b11a6b8b2ad4e6317d68f",
+        "android_client_info": {
+          "package_name": "com.example.aulawhatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPvRMoOQsok13QUw2z7-g402ZqJonEBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
